@@ -2,9 +2,7 @@
 
 Project demonstration
 
-https://www.loom.com/share/2a48aa2fdbc84a8b8b2b23ea68bdafe5
 
-(click on this link to see the video )
 
 Multi-Threaded Network Proxy Server
 A high-performance, concurrent Python proxy server capable of handling HTTP and HTTPS traffic. This project was developed to demonstrate core networking principles, including TCP socket programming, multi-threaded concurrency models, and rule-based traffic filtering.
@@ -37,4 +35,8 @@ Suffix Matching Logic: A robust security feature that prevents easy bypasses of 
 Persistence: Implements a decoupled logging system that tracks timestamps, client IPs, and data transfer sizes.
 
 Graceful Shutdown: Handles Ctrl+C (SIGINT) to ensure ports are released and resources are cleaned up properly.
+
+https://www.loom.com/share/2a48aa2fdbc84a8b8b2b23ea68bdafe5
+
+(click on this link to see the video )
 
